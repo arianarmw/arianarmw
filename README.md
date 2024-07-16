@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariana Rahmawati</h1>
-<h4 align="center">I am a passionate backend and frontend developer with a keen interest in enhancing my skills, particularly in the field of security. Currently, I am dedicated to extensive practice and learning to improve my expertise in this area.</h4>
+<p1 align="center">I am a passionate backend and frontend developer with a keen interest in enhancing my skills, particularly in the field of security. Currently, I am dedicated to extensive practice and learning to improve my expertise in this area.</p1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arianarmw&label=Profile%20views&color=0e75b6&style=flat" alt="arianarmw" /> </p>
 
