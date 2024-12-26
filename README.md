@@ -3,6 +3,7 @@
 ## 🌟 About Me  
 🌍 **From**: Indonesia 🇮🇩  
 🌐 **Languages**: Fluent in Bahasa Indonesia (incl. Sundanese and Javanese 😂) and English
+
 🎯 **Currently Learning**:  
 - 🌐 Web Development
 - 📱 Mobile Development    
