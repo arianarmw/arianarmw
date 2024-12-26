@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Ariana
+# 👋 Hello! I'm Ariana
 
 ## 🌟 About Me  
 🌍 **From**: Indonesia 🇮🇩  
