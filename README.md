@@ -1,22 +1,40 @@
-<h1 align="center">Hi 👋, I'm Ariana Rahmawati</h1>
-<p1 align="center">I am a passionate backend and frontend developer with a keen interest in enhancing my skills, particularly in the field of security. Currently, I am dedicated to extensive practice and learning to improve my expertise in this area.</p1>
+# 👋 Hello World! I'm Ariana
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arianarmw&label=Profile%20views&color=0e75b6&style=flat" alt="arianarmw" /> </p>
+## 🌟 About Me  
+🌍 **From**: Indonesia 🇮🇩  
+🌐 **Languages**: Fluent in Bahasa Indonesia (incl. Sundanese and Javanese 😂) and English
+🎯 **Currently Learning**:  
+- 🌐 Web Development
+- 📱 Mobile Development    
+- 🤖 Data Analysis and Machine Learning
+🛠️ **Programming Skills**:  
+- **C/C++**,**PHP**, **Python**, **Java**, **JavaScript**  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arianarmw" alt="arianarmw" /></a> </p>
+## 🌱 My Current Mission  
+To upgrade my skills, build cool projects, and conquer bugs (with style). 🚀  
 
-- 📫 How to reach me **arianarahmawati0910@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arianarmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arianarmw" height="30" width="40" /></a>
-<a href="https://instagram.com/arianarmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arianarmw" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Stats  
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=arianarmw&theme=radical&hide_border=true&fire=FF5733)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arianarmw&layout=compact&theme=radical&hide_border=true)  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arianarmw&show_icons=true&theme=radical&hide_border=true)
+  
+</div>  
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arianarmw&show_icons=true&locale=en&layout=compact" alt="arianarmw" /></p>
+## 🤓 Fun Facts About Me  
+- 💡 I believe every bug has a backstory—just waiting to be squashed.  
+- 🎵 Coding sessions = powered by music + snacks.  
+- 😂 Once wrote "Hello World!" in over 10 programming languages for no reason.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arianarmw&show_icons=true&locale=en" alt="arianarmw" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arianarmw&" alt="arianarmw" /></p>
+## ✨ Let's Connect!  
+📫 Reach me via [Email](mailto:arianarahmawati0910@gmail.com) or just say hi here on GitHub!  
+
+---
+*“Bug-free code is a myth, but a determined coder is unstoppable!”* 💻✨  
