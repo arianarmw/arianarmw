@@ -31,7 +31,7 @@ To upgrade my skills, build cool projects, and conquer bugs (with style). 🚀
 ## 🤓 Fun Facts About Me  
 - 💡 I believe every bug has a backstory—just waiting to be squashed.  
 - 🎵 Coding sessions = powered by music + snacks.  
-- 😂 Once wrote "Hello World!" in over 10 programming languages for no reason.  
+- 🛡️ I have lots of repositories but make them private every year like a digital spring cleaning.
 
 ---
 
