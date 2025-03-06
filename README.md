@@ -31,12 +31,6 @@ To upgrade my skills, build cool projects, and conquer bugs (with style). 🚀
 ## 🤓 Fun Facts About Me  
 - 💡 I believe every bug has a backstory—just waiting to be squashed.  
 - 🎵 Coding sessions = powered by music + snacks.  
-- 🛡️ I have lots of repositories but make them private every year like a digital spring cleaning.
-
----
-
-## ✨ Let's Connect!  
-📫 Reach me via [Email](mailto:arianarahmawati0910@gmail.com) or just say hi here on GitHub!  
 
 ---
 *“Bug-free code is a myth, but a determined coder is unstoppable!”* 💻✨  
